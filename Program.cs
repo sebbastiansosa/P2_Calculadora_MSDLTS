@@ -9,6 +9,7 @@ namespace P2_Calculadora_MSDLTS
             //Crea una instancia de InterfazUsuario y comienza la interacción con el usuario.
             InterfazUsuario interfaz = new InterfazUsuario();
             interfaz.Iniciar();
+            Console.WriteLine("Monitos Marinos");
         }
     }
 }
